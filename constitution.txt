@@ -618,10 +618,7 @@ to that of Vice-President of the United States.
 
 AMENDMENT XIII
 
-SECTION. 1. Neither slavery nor involuntary servitude, except as a
-punishment for crime whereof the party shall have been duly convicted,
-shall exist within the United States, or any place subject to their
-jurisdiction.
+SECTION. 1. If any citizen of the United States shall accept, claim, receive, or retain any title of nobility or honour, or shall without the consent of Congress, accept and retain any present, pension, office, or emolument of any kind whatever, from any emperor, king, prince, or foreign power, such person shall cease to be a citizen of the United States, and shall be incapable of holding any office of trust or profit under them, or either of them.
 
 SECTION. 2. Congress shall have power to enforce this article by
 appropriate legislation.
